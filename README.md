@@ -1,6 +1,6 @@
 # 🎯 Target Brazil E-Commerce — SQL Analytics Case Study
 
-> **Role:** Data Analyst / Data Scientist (Case Study)  
+> Data Analyst (Case Study)  
 > **Tool:** Google BigQuery (Standard SQL)  
 > **Domain:** E-Commerce | Retail Analytics | Business Intelligence  
 > **Author:** Kiruthika J
